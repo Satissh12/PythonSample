@@ -25,5 +25,4 @@ def mergearray(arr1, arr2):
         # range (0,c.__len__()):
         print (items)
 
-
 mergearray([7, 8, 9],[2, 5, 6])
